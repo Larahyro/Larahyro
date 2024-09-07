@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Larahyro
 - 👀 I’m interested in learn web programming
-- ⚡ Fun fact: i am a midwife
+- Vivo en Punta Arenas, Chile
+- ⚡ Fun fact: i am a matrona
 
 <!---
 Larahyro/Larahyro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
